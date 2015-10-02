@@ -2,11 +2,12 @@ package ru.spb.herzen.ivt3;
 
 import org.kohsuke.randname.RandomNameGenerator;
 
-// I'm Kirill Nikolaev  
+// I'm Kirill Nikolaev
 public class App 
 {
     public static void main( String[] args )
     {
+        System.out.println("I'm Kirill Nikolaev");
         RandomNameGenerator rnd = new RandomNameGenerator(0);
         System.out.println("Exercise 1");
         for (int i=0; i<4; i+=1) {
