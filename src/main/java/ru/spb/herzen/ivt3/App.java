@@ -2,7 +2,7 @@ package ru.spb.herzen.ivt3;
 
 import org.kohsuke.randname.RandomNameGenerator;
 
-// I'm Kirill Nikolaev
+// I'm Kirill Nikolaev  
 public class App 
 {
     public static void main( String[] args )
